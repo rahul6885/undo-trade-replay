@@ -1,0 +1,12 @@
+{
+  "name": "undo-trade-replay",
+  "version": "0.3.0",
+  "private": true,
+  "description": "UNDO Trade Replay \u2014 Robinhood Chain analytics",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
